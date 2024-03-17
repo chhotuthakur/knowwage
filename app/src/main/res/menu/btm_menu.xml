@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btm_home"
+        android:title="Home"
+        android:visible="true"/>
+    <item
+        android:id="@+id/btm_contest"
+        android:title="Contests"
+        android:visible="true"/>
+    <item
+        android:id="@+id/btm_result"
+        android:title="Results"
+        android:visible="true"/>
+    <item
+        android:id="@+id/btm_reward"
+        android:title="Rewards"
+        android:visible="true"/>
+</menu>
